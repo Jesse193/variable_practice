@@ -13,3 +13,11 @@ num_3 = 65
 float_1 = 2.5
 float_2 = 55.9
 float_3 = 23.22
+
+# Booleans
+
+dog_cute = true
+pizza_good = true
+fav_drink_tea = false
+
+
