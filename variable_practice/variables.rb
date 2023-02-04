@@ -7,3 +7,9 @@ fav_drink = "Coffee"
 num_1 = 5
 num_2 = 20
 num_3 = 65
+
+# floats
+
+float_1 = 2.5
+float_2 = 55.9
+float_3 = 23.22
