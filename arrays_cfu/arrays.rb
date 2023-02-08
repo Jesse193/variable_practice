@@ -28,4 +28,8 @@ puts grocery_list[0]
 grocery_list.slice!(1)
 puts grocery_list
 
+/additional array method/
 
+/insert will add an element to a specific index position/
+grocery_list.insert(2, "Coffee")
+puts grocery_list
